@@ -1,6 +1,6 @@
 # Ifome 
 ```
-O Ifome é um webapp de delíveri que entrega seu prato em 6 minutos 😄
+O Ifome é um webapp de delivery que entrega seu prato em 6 minutos 😄
 ```
 
 ## Para clonar o projeto
