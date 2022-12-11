@@ -12,8 +12,9 @@ O Ifome é um webapp de delivery que entrega seu prato em 6 minutos 😄
 ```
 1- Clique com o botão direito no diretório do projeto e selecione a opção, abri com code.
 OBS: Caso esta opção não esteja habilitada para você, acesse este link para mais informação de como habilitar. 
+[Guia pratico](https://dev.to/leticiacamposs2/como-adicionar-um-menu-de-contexto-abrir-com-vs-code-ao-windows-explorer-300j).
 ```
-[Gui pratico](https://dev.to/leticiacamposs2/como-adicionar-um-menu-de-contexto-abrir-com-vs-code-ao-windows-explorer-300j).
+[Guia pratico](https://dev.to/leticiacamposs2/como-adicionar-um-menu-de-contexto-abrir-com-vs-code-ao-windows-explorer-300j).
 
 ## Para rodar o projeto
 
@@ -23,6 +24,7 @@ OBS: Caso esta opção não esteja habilitada para você, acesse este link para 
 O projeto irá inicial automáticamente em [http://localhost:3000](http://localhost:3000)
 ou se preferir, pode digitar no campo da url
 ```
+ [http://localhost:3000](http://localhost:3000)
 
 
 ## Agradecimento
@@ -33,10 +35,9 @@ Bons estudos.
 ```
 
 # DEVELOPER
-```
-Rafael Silva De Simas
-```
-[linkedin](https://www.linkedin.com/in/rafael-silva-de-simas/)
+
+#### Rafael Silva De Simas
+[linkedin do desenvolvedor](https://www.linkedin.com/in/rafael-silva-de-simas/)
 
 
 
